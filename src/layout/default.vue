@@ -2,6 +2,7 @@
   <div class="w-full lg:min-h-[400px] sm:min-h-screen bg-redes">
     <Navbar />
     <main>
+      <PageState />
       <RouterView></RouterView>
     </main>
   </div>
