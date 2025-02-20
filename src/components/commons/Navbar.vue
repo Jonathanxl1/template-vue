@@ -1,5 +1,5 @@
 <template>
-  <nav class="w-full h-12 flex justify-between p-4 bg-red-500">
+  <nav class="w-full h-12 flex justify-between p-4 bg-red-500 shadow-lg fixed">
     <RouterLink to="/">
       <div>Logo</div>
     </RouterLink>
